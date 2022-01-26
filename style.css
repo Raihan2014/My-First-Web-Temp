@@ -98,3 +98,13 @@ ul.mainMenuItem li#SearchBTN i {
 ul.mainMenuItem li a:hover{
     color: #ff5200
 }
+<<<<<<< HEAD
+=======
+.hb{
+    position: absolute;
+    color: aqua;
+    background: tomato;
+    top: 300px;
+    left:50%;
+}
+>>>>>>> b015b3f (git update by raihan)
